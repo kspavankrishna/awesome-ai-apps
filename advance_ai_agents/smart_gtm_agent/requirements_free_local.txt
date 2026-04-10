@@ -1,0 +1,6 @@
+ddgs
+trafilatura
+langchain-ollama
+python-dotenv
+streamlit
+langgraph
