@@ -1,0 +1,4 @@
+trafilatura
+langchain-ollama
+python-dotenv
+apscheduler
